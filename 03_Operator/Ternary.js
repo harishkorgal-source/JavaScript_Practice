@@ -7,7 +7,6 @@ let cond = result1 ? "true condition...🙈" : "false condition...🎶";
 console.log(cond);
 
 let testResult = "pass";
-let executionResult = "pass";
+let executionResult = "fail";
 let testStatus = executionResult === testResult ? "Pass...🎉" : "Fail...😞";
 console.log(testStatus);
-
