@@ -10,5 +10,3 @@ let testResult = "pass";
 let executionResult = "fail";
 let testStatus = executionResult === testResult ? "Pass...🎉" : "Fail...😞";
 console.log(testStatus);
-
-//test it 
